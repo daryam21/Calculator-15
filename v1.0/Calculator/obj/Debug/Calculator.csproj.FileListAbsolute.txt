@@ -1,0 +1,9 @@
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\obj\Debug\Calculator.calculator_form.resources
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\SUSANTA\Desktop\C# projects\Calculator\obj\Debug\Calculator.pdb
